@@ -3,22 +3,6 @@ wake on lan python
 #########
 
 
-.. image:: https://img.shields.io/pypi/pyversions/wakeonlan.svg
-   :target: https://pypi.org/project/wakeonlan/#files
-   :alt: Supported Python versions
-
-.. image:: https://img.shields.io/travis/remcohaszing/pywakeonlan/master.svg
-    :target: https://travis-ci.org/remcohaszing/pywakeonlan
-    :alt: Build Status
-
-.. image:: https://readthedocs.org/projects/pywakeonlan/badge/?version=latest
-    :target: https://pywakeonlan.readthedocs.io/en/latest
-    :alt: Documentation Status
-
-.. image:: https://codecov.io/gh/remcohaszing/pywakeonlan/branch/master/graph/badge.svg
-   :target: https://codecov.io/gh/remcohaszing/pywakeonlan
-   :alt: Code coverage
-
 A small python module for wake on lan.
 
 For more information on the wake on lan protocol please take a look at
